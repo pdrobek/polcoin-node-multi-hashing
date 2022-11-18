@@ -1,0 +1,1 @@
+# polcoin-node-multi-hashing
