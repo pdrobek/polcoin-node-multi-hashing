@@ -16,7 +16,7 @@
     },
     "dependencies": {
         "bindings": "*",
-        "nan": "^2.15.0"
+        "nan": "^2.28.0"
     },
     "keywords": [
         "scrypt",
